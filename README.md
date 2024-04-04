@@ -34,6 +34,8 @@ This is the motto for undergraduates entering the Mechanical Engineering program
 - Where: Here (context)
 - Why: Age Restrictions (the purpose of the request)
 
+THe conflation of What and Why may be indicative of the nature of the request from the user's perspective. It is worth a deeper use case analysis.
+
   ![proof of age](https://github.com/TomCJones/All-you-need/assets/11299542/470bc81d-f095-47f8-a652-dbe431d11a23)
 
 
