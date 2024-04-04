@@ -1,6 +1,6 @@
 # Users are all you need
 
-When we look at successful deployments of human access to technology, we find examples like OpenID Connect where users already had accounts a Yahoo and Google and smaller web sites needed to rapidly enroll users who were overwhelmed by the shear complexity and confusion of too many sites asking them to create accounts that required the sort of secret sharing passwords that human are not good at remembering. Let’s consider the parties to the effort and why each thought that it was a win for them.
+When we look at successful deployments of human access to technology, we find examples like OpenID Connect where users already had accounts at Yahoo and Google, Then the smaller web sites needed to rapidly enroll users who were overwhelmed by the shear complexity and confusion of too many sites asking them to create accounts that required the sort of secret sharing passwords that human are not good at remembering. Let’s consider the parties to the effort and why each thought that it was a win for them.
 
 1. Google and Yahoo cemented their role as gatekeepers for new technology.
 2. Emergent web sites were able to get users to create accounts easily.
