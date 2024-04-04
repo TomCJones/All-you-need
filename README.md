@@ -1,4 +1,5 @@
 # Users are all you need
+So, let's make it really easy to acquire them!
 
 When we look at successful deployments of human access to technology, we find examples like OpenID Connect where users already had accounts at Yahoo and Google, Then the smaller web sites needed to rapidly enroll users who were overwhelmed by the shear complexity and confusion of too many sites asking them to create accounts that required the sort of secret sharing passwords that human are not good at remembering. Let’s consider the parties to the effort and why each thought that it was a win for them.
 
@@ -26,7 +27,7 @@ How do we get the same three-party win described above:
 
 ## Keep it Simple Stupid (KISS)
 
-This is the motto for undergraduates entering the Mechanical Engineering program at MIT as reported by Seth Llyod, a professor there. For digital id to work it must be really simple at the UX level. The following pages show a super great example which is designed to answer all of the normal questions a user has:
+This is the motto for undergraduates entering the Mechanical Engineering program at MIT as reported by Seth Lloyd, a professor there. For digital id to work it must be really simple at the UX level. The following pages show a super great example which is designed to answer all of the normal questions a user has:
 
 - Who: Starship Concert hall
 - What: Requesting Proof of age
