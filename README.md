@@ -21,8 +21,8 @@ What government solutions work? The US TSA is a remarkable example of applying n
 How do we get the same three-party win described above:
 
 1. Issuers: Can happen with little or no human costs
-2. Holders: Can access remotely and have it always with them
-3. Verifiers: Will need to be able to issue a query independent of issuer
+2. Holders: Can access remotely and have it always with them + has full control of release of their data
+3. Verifiers: Will need to be able to issue a query independent of issuer without extensive change to their existing processes
 
 ## Keep it Simple Stupid (KISS)
 
