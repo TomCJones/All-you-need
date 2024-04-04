@@ -33,6 +33,7 @@ This is the motto for undergraduates entering the Mechanical Engineering program
 - When: Now (context)
 - Where: Here (context)
 - Why: Age Restrictions (the purpose of the request)
+- How: This is optional and depends on whether more assurance is needed from the user - it may just be part of the UX on the phone and not on the display
 
 THe conflation of What and Why may be indicative of the nature of the request from the user's perspective. It is worth a deeper use case analysis.
 
