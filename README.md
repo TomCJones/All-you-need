@@ -26,7 +26,7 @@ How do we get the same three-party win described above:
 
 ## Keep it Simple Stupid (KISS)
 
-This is the motto for undergraduates entering the Mechanical Engineering program at MIT as reported by Seth Llyod, a professor there. For digital id to work is must be really simple. The following pages show a super great example which is designed to answer all of the normal questions a user has:
+This is the motto for undergraduates entering the Mechanical Engineering program at MIT as reported by Seth Llyod, a professor there. For digital id to work it must be really simple at the UX level. The following pages show a super great example which is designed to answer all of the normal questions a user has:
 
 - Who: Starship Concert hall
 - What: Requesting Proof of age
