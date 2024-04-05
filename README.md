@@ -12,7 +12,7 @@ Also, the proposed solution was remarkable simple. Any programmer could gin up a
 Government, schools and employers have complete control of user access technology and are able to impose whatever solutions that want on their subjects. The results tend to be ugly, hard to maintain and difficult to change. In sum, top-down solutions are seldom popular with users. We have some specific examples of problems created by this approach: prompt fatigue and insecurity. Somehow the EU parliament got the idea that cookies were evil because of the way that cookies enabled tracking of people, so they gave users the right to ask for cookies not to be collected. The cookie threat has been (soon) eliminated by the deprecation of third-party cookies, but the incessant and insensible barrage of requests to allow cookies continues to force the users to continuously make security choices to the point where they just accept everything. The security threat to user private data is magnified by the judges in the EU that created the “right to be forgotten”, which resulted in the collection of all those damaging secrets into a single online data base so that they WOULD NOT be displayed in a search but certainly will show up, in their entirety, on the dark web soon. A new security threat has been proposed that will force users to trust web sites or credential verifiers approved by any one of the 27 (or more) governments that issue electronic identifiers. Napolean and Bismark created codes, some parts of which survive even to this day, but the results turned out well for neither man, nor for the countries that adopted them. Some news reports follow showing where government effort can succeed:
 
 1. [User Report from Chicago](https://thepointsguy.com/news/united-precheck-touchless-id-ohare/)
-2. [Al Rocker on La Guardia Terminal C](https://www.instagram.com/reel/C33LjrYOxbf/?igsh=MXh5c3dwNjBmdGhubw%3D%3D)
+2. [Al Roker on La Guardia Terminal C](https://www.instagram.com/reel/C33LjrYOxbf/?igsh=MXh5c3dwNjBmdGhubw%3D%3D)
 3. [Fox news on Las Vegas](https://fox59.com/news/national-world/airport-self-screening-security-lanes-being-tested-in-las-vegas/)
 4. [TSA uses ‘minimum’ data to fine-tune its facial recognition](https://www.nextgov.com/emerging-tech/2024/01/tsa-uses-minimum-data-fine-tune-its-facial-recognition-some-experts-still-worry/393672/)
 5. [Remote Identity Validation Tech Demo Challenge](https://www.dhs.gov/science-and-technology/news/2024/01/23/dhs-st-announces-track-3-remote-identity-validation-tech-demo-challenge)
@@ -22,7 +22,7 @@ So, what government solutions work? The US TSA is a remarkable example of applyi
 How do we get the same three-party win described above:
 
 1. Issuers: Can happen with little or no human costs
-2. Holders: Can access remotely and have it always with them + has full control of release of their data
+2. Holders: Can access remotely and have it always with them + has full control of release of their data + verifiers accept them
 3. Verifiers: Will need to be able to issue a query independent of issuer without extensive change to their existing processes
 
 ## Keep it Simple Stupid (KISS)
