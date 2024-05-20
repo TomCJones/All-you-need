@@ -21,7 +21,7 @@ So, what government solutions work? The US TSA is a remarkable example of applyi
 
 How do we get the same three-party win described above:
 
-1. Issuers: Can happen with little or no human costs
+1. Issuers:  Digitalization can happen with little or no human costs. [Digitization excludes many people from social or economic life. They are left behind.](https://cacm.acm.org/blogcacm/digitization-puts-many-at-a-disadvantage/)
 2. Holders: Can access remotely and have it always with them + has full control of release of their data + verifiers accept them
 3. Verifiers: Will need to be able to issue a query independent of issuer without extensive change to their existing processes
 
