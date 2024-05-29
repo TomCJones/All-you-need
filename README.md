@@ -23,7 +23,7 @@ How do we get the same three-party win described above:
 
 1. Issuers:  Digitalization can happen with little or no human costs. [Digitization excludes many people from social or economic life. They are left behind.](https://cacm.acm.org/blogcacm/digitization-puts-many-at-a-disadvantage/)
 2. Holders: Can access digital credential where they need them and have them always with them + have full control of release of their data + verifiers accept them
-3. Verifiers: Will need to be able to issue a query independent of issuer without extensive change to their existing processes
+3. Verifiers: Will need to be able to issue a query independent of issuer without extensive change to their existing processes since (Merchants Accept Digital Wallets but Will Not Invest in Innovation)[https://www.pymnts.com/mobile-wallets/2023/merchants-accept-digital-wallets-will-not-invest-innovation/]
 
 ## Keep it Simple Stupid (KISS)
 
