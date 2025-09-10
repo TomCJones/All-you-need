@@ -1,5 +1,5 @@
 # Users are all you need
-So, let's make it really easy to acquire them!
+So, let's make it really easy to engage with them in a world of unbiquitous Intelligent Agents!
 
 When we look at successful deployments of human access to technology, we find examples like OpenID Connect where users already had accounts at Yahoo and Google, Then the smaller web sites needed to rapidly enroll users who were overwhelmed by the shear complexity and confusion of too many sites asking them to create accounts that required the sort of secret sharing passwords that human are not good at remembering. Let’s consider the parties to the effort and why each thought that it was a win for them.
 
@@ -7,7 +7,7 @@ When we look at successful deployments of human access to technology, we find ex
 2. Emergent web sites were able to get users to create accounts easily.
 3. Users had few secrets that they needed to both remember and maintain.
 
-Also, the proposed solution was remarkable simple. Any programmer could gin up a new web site with full user account control in a matter of hours. The result was presented to the users as **Single Sign-On**, an attractive alternate to individual account names and passwords at every website where the user wanted to maintain some context from one access to another. Compare this to what happens when a government decides to create a user access control system. The downside was that the website got access to your email account and often other identifity information.
+Also, the proposed solution was remarkable simple. Any programmer could gin up a new web site with full user account control in a matter of hours. The result was presented to the users as **Single Sign-On**, an attractive alternate to individual account names and passwords at every website where the user wanted to maintain some context from one access to another. Compare this to what happens when a government decides to create a user access control system. The downside was that the website got access to your email account and often other identifity information. Let's consider how to engage users in a more user-centric solution.
 
 ## Groups of Users - The Circle
 
