@@ -11,7 +11,7 @@ Also, the proposed solution was remarkable simple. Any programmer could gin up a
 
 ## Groups of Users - The Circle
 
-Consider how the **family circle**, **church circle**, and **social circle** compare to other group formations by looking at their **structure, purpose, and dynamics**. These circles represent deeply rooted forms of human congregation, but they’re just part of a broader landscape of how people come together.
+The single-signon solutions were desinged by corporations to control connections between humans and web sites. For the future let's try to create solutions which are oriented to the way that humans engage with each other and build solutions that focus on human needs rather than website needs in a world where Artificial Agents help humans organize their lives. Consider how the **family circle**, **church circle**, and **social circle** compare to other group formations by looking at their **structure, purpose, and dynamics**. These circles represent deeply rooted forms of human congregation, but they’re just part of a broader landscape of how people come together.
 
 ---
 
