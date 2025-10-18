@@ -20,11 +20,9 @@ The human rapidly approaches as satisfactory solution that might wind up be quit
 *What must be true before this use case begins?*
 
 - Local UX agent is cryptographically bound to citizen identity in device hardware.
-  
+- The user probably starts the interaction with only a rough goal which will be amended as the interchange unfolds.
 - Consent policy token is valid and defined in some well-accepted policy language.
-  
 - Cloud Agents' API is reachable and policy-compliant
-  
 - Is agent a fiduciary, depends on whether the cloud agent requires access to human assets.
   
 
@@ -73,9 +71,7 @@ The human rapidly approaches as satisfactory solution that might wind up be quit
 *What must be true after the use case completes?*
 
 - Record is securely deleted
-  
 - Audit trail is updated with policy and statement of result
-  
 - User retains control over data usage
   
 
